@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hey bro
+you will be a rich man
